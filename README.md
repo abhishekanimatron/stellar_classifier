@@ -52,6 +52,13 @@ In astronomy, stellar classification is the classification of stars based on the
 - Random Forest Classifier
 - Support Vector Machines
 
+### Libraries Used
+- Pandas
+- Numpy
+- Seaborn
+- Sklearn
+- Pickle
+
 ### Accuracy Achieved - 97.93 %
 <img src="https://beeimg.com/images/q27383404472.png" alt="confusion matrix"/>
 
